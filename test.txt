@@ -1,2 +1,3 @@
 thiis line was added in the first branch
-This is the first file.
+a new line was added in the master branch
+his is the first file.
