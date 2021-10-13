@@ -2,7 +2,4 @@
 this line was added in the first branch
 a new line was added in the master branch
 this is the first file.
-
-
-
-
+new line added to check diff
